@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
 * {
-  box-sizing: border-box; /* so if we added a padding or an border so it won't affect  the width*/
+  box-sizing: border-box;
 }
 body {
   background-image: linear-gradient(90deg, #7ed6df, #7ed6df);
